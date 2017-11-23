@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='scriptkit',
-      version='0.1',
+      version='0.2',
       description='',
       url='http://github.com/kokeshii/scriptkit',
       author='Carlos Rey',
